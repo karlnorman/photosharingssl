@@ -9,8 +9,8 @@ Follow these steps to set up the Photo Sharing App with SSL security:
      git clone (https://github.com/karlnorman/photosharingssl.git)
 2. Install dependencies:
    bash
-     npm init -y 
-     npm install express helmet    
+     npm init -y
+     npm install express helmet
      npm install body-parser 
 3. Generate SSL certificates using OpenSSL:
    bash
